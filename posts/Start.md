@@ -18,7 +18,7 @@ There is hr. it is like br so you dont need to close it. i makes lines.
 I learned pre. So it is a p element but browser respects your formattting. W
 
 
-you use style as style="property:value" eg style="font-size:40%" 40 percent of font size means. It looks like style is a different beast. I wonder does this have any ties with css. ![Me](../muscle.jpg)
+you use style as style="property:value" eg style="font-size:40%" 40 percent of font size means. It looks like style is a different beast. I wonder does this have any ties with css. ![Me](images/muscle.jpg)
 
 
 there is bunch of different styling inside of elemts. just "b" is used for bold. and it have its copycat storng.  i for italics and em is emphesized text means it is same as italic. self evident there is small means smaller text , mark used as highligter (like real highlighter pen) , del is crossing the word. ins makes bottom with line , sub makes text lower  ??? what the hell this is weird. I do think this might me a bit overkill to learn this much html. I just want to learn 20 percent that give 80 percent of the results so i will drop learning this. This is absurd.
